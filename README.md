@@ -1,2 +1,2 @@
-# My-mini-projects
-Here you can find my projects that I worked on recently
+# Simple Drag-n-drop feature
+
